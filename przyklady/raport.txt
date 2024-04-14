@@ -1,0 +1,3 @@
+Konto nr 1: jan, stan 1100.0
+Konto nr 2: anna, stan 105.0, oprocentowanie 5.0
+Konto nr 3: maria, stan -100.0, oprocentowanie 10.0, limit debetu -100.0
